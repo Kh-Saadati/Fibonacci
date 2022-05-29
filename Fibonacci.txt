@@ -22,3 +22,6 @@ int main()
 	system("pause");
 	return 0;
 }
+
+//This is the Fibonacci series code
+{1, 1, 2, 3, 5, 8, 13, ...}
